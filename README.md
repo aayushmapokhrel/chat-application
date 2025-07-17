@@ -27,8 +27,8 @@ Password Hashing 	passlib
 
     Clone the repository:
 
-git clone https://github.com/aayushmapokhrel/chat application.git
-cd chat application
+git clone https://github.com/aayushmapokhrel/chat-application.git
+cd chat-application
 
     Set up virtual environment:
 
